@@ -231,3 +231,4 @@ ipython_config.py
 *.csv
 *.txt
 *.pdf
+!requirements.txt
